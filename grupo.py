@@ -1,5 +1,5 @@
 import json
-from partida import Partida
+from DesafioGC.partida import Partida
 
 class Grupo():
     def __init__(self, name):

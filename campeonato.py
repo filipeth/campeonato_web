@@ -1,6 +1,7 @@
-from team import Team
-from grupo import Grupo
-from partida import Partida
+from DesafioGC.team import Team
+from DesafioGC.grupo import Grupo
+from DesafioGC.partida import Partida
+
 
 import random
 
